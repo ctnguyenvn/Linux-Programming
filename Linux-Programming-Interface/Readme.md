@@ -1,6 +1,6 @@
-### The Linux Programming Interface
+### The Linux Programming Interface [Ebook](https://github.com/ctnguyenvn/Linux-Programming/blob/master/Ebook/The%20Linux%20Programming%20Interface.pdf)| [Ebook Online](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf)
 
-> Ebook: A Linux and UNIX System Programming Handbook
+> Ebook: [A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)
 
 > Author: Michael Kerrisk
 
