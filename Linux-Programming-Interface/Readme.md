@@ -14,7 +14,7 @@
 
 #### List contents
 
-- #### [Chapter 1:](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf#G7.1007413) [History and Standars]()
+- #### [Chapter 1:](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf#G7.1007413) [History and Standars](https://github.com/ctnguyenvn/Linux-Programming/tree/master/Linux-Programming-Interface/Chapter_01)
 
 - #### [Chapter 2:](https://doc.lagout.org/programmation/unix/The%20Linux%20Programming%20Interface.pdf#G8.1008451) [Fundamental Concepts]()
 
